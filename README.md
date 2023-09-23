@@ -1,6 +1,6 @@
 # QR_Generator
 
-Created a simple QR code generator using javascript. It generates the qr-image in .png format for the given url provided by the user as input and also stores the inputs in a text file.
+Created a simple QR code generator using javascript. It generates the qr-image in .png format for the given url provided by the user as input and also stores the inputs in a text file. A unique QR will be generated.
 
 1. Uses the inquirer npm package to get user input.
 
